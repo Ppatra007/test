@@ -1,4 +1,4 @@
 # test
 test purpose
 author 
--pritam patra
+-pritam patra & priti patra
